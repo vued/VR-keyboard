@@ -1,8 +1,8 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Fonts\3DTextShader.shader">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\CreateKeys.cs">
     <Files>
-      <File FileName="Assets\Fonts\3DTextShader.shader" Line="1" Column="1" />
+      <File FileName="Assets\CreateKeys.cs" Line="13" Column="26" />
     </Files>
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
